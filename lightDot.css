@@ -412,10 +412,10 @@ header {
 
 .portfolio {
     display: grid;
-    max-width: 1300px;
+    max-width: 1000px;
     margin: auto;
     margin-bottom: 1em;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
 }
 
 .portfolio__item {
